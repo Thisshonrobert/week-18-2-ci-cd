@@ -4,5 +4,6 @@ export default function() {
     return <div className="w-full"> 
         <SendCard />
         <div></div>
+        <div></div>
     </div>
 }
